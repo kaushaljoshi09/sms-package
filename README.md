@@ -1,5 +1,6 @@
 [![Issues](https://img.shields.io/github/issues/kaushaljoshi09/sms-package)](https://github.com/kaushaljoshi09/sms-packagee/issues)
 [![Stars](https://img.shields.io/github/stars/kaushaljoshi09/sms-package)](https://github.com/kaushaljoshi09/sms-packagee/stargazers)
+[![Forks](https://img.shields.io/github/forks/kaushaljoshi09/sms-package)](https://github.com/kaushaljoshi09/sms-package/network/members)
 
 ## Table of Contents
 
