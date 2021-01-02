@@ -1,9 +1,9 @@
 <?php
-namespace Kaushal\Twilio;
+namespace Kaushal\Sms;
 
 use Illuminate\Support\ServiceProvider;
 
-class TwilioServiceProvider extends ServiceProvider 
+class SendMessageServiceProvider extends ServiceProvider 
 {
     
     /**
@@ -13,7 +13,7 @@ class TwilioServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        include __DIR__.'/TwilioApi.php';
+        include __DIR__.'/SendMessage.php';
         include __DIR__.'/Exceptions/Handler.php';
     }
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Kaushal\Twilio\Exceptions;
+namespace Kaushal\Sms\Exceptions;
 
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 use Throwable;

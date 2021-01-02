@@ -1,5 +1,5 @@
 {
-    "name": "kaushal/twilio",
+    "name": "kaushal/sms",
     "description": "This will send sms to user",
     "type": "library",
     "keywords": ["twilio", "sms", "api", "kaushal", "laravel"],
@@ -16,13 +16,13 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Kaushal\\Twilio\\": "src/"
+            "Kaushal\\Sms\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Kaushal\\Twilio\\TwilioServiceProvider"
+                "Kaushal\\Sms\\SendMessageServiceProvider"
             ]
         }
     }
