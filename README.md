@@ -6,16 +6,14 @@
 
 - [Overview](#overview)
 - [Installation](#installation)
-- [Documentation](#documentation)
+- [Source](#source)
 - [License](#license)
 - [Note](#note)
 
 
 ## Overview
 
-To send sms to particular number Twilio provide good function which we can use in our project this package <b>KAUSHAL SMS PHP SDK</b> is modified with the use of standard Twilio method and will help you to have same experince with less code useage in controller and will maintain your coding standard.
-
-For more information, visit the Twilio PHP SDK documentation.
+To send SMS to a person. <a href="https://github.com/kaushaljoshi09/sms-package"></a><b>KAUSHAL SMS PHP SDK</b></a> provides the best functionality which we can use in our project. It will reduce your efforts as well as your code.
 
 ## Installation
 
@@ -26,15 +24,14 @@ For more information, visit the Twilio PHP SDK documentation.
 5.  `When you pass the number make sure you pass it with country code`
 5.  `Pass phonenumber & msg in this manner to the package name like "new SendMessage($phonnumber, $msg)"`
 
-## Documentation
+## Source
 
 - [Twilio](https://www.twilio.com/docs/sms/quickstart/php)
 
 ## License
 
-<b>KAUSHAL SMS PHP SDK is licensed under the MIT License.</b>
-
+<b><a href="https://github.com/kaushaljoshi09/sms-package"></a><b>KAUSHAL SMS PHP SDK</b></a> is licensed under the MIT License.</b>
 
 ## Note : 
 
-<b>This package is under the MIT license. If anyone wants to contribute, please fork it. We will highly appreciate it.</b>
+<b>This package is under the MIT license. If anyone wants to contribute, <span style="color:red">please fork it</span>. We will highly appreciate it.</b>
