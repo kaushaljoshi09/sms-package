@@ -34,4 +34,4 @@ To send SMS to a person. <a href="https://github.com/kaushaljoshi09/sms-package"
 
 ## Note : 
 
-<b>This package is under the MIT license. If anyone wants to contribute, <span style="color:red">please fork it</span>. We will highly appreciate it.</b>
+<b>This package is under the MIT license. If anyone wants to contribute, <span style="color:red;">please fork it</span>. We will highly appreciate it.</b>
