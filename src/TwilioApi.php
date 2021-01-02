@@ -13,7 +13,8 @@ class TwilioApi
         try {
             // Use the client to do fun stuff like send text messages!
             $client->messages->create($phoneNumber,array('from' => $twilio_number, 'body' => $message));
-        }catch (Exception $e) {
+            return true;
+        } catch (Exception $e) {
             echo "Error: " . $e->getMessage();
             exit();
         }
