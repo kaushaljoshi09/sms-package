@@ -13,7 +13,7 @@
 
 ## Overview
 
-To send SMS to a person. <a href="https://github.com/kaushaljoshi09/sms-package"></a><b>KAUSHAL SMS PHP SDK</b></a> provides the best functionality which we can use in our project. It will reduce your efforts as well as your code.
+To send SMS to a person. <a href="https://github.com/kaushaljoshi09/sms-package"><b>KAUSHAL SMS PHP SDK</b></a> provides the best functionality which we can use in our project. It will reduce your efforts as well as your code.
 
 ## Installation
 
@@ -30,7 +30,7 @@ To send SMS to a person. <a href="https://github.com/kaushaljoshi09/sms-package"
 
 ## License
 
-<b><a href="https://github.com/kaushaljoshi09/sms-package"></a><b>KAUSHAL SMS PHP SDK</b></a> is licensed under the MIT License.</b>
+<b><a href="https://github.com/kaushaljoshi09/sms-package"><b>KAUSHAL SMS PHP SDK</b></a> is licensed under the MIT License.</b>
 
 ## Note : 
 
