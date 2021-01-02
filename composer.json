@@ -1,0 +1,22 @@
+{
+    "name": "kaushal/twilio",
+    "description": "This will send sms to user",
+    "type": "library",
+    "keywords": ["twilio", "sms", "api", "kaushal", "laravel"],
+    "require": {
+        "twilio/sdk": "^6.15"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kaushal",
+            "email": "kaushaljoshi75@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Kaushal\\Twilio\\": "src/"
+        }
+    }
+}
