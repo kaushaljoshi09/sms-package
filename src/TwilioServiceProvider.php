@@ -13,7 +13,8 @@ class TwilioServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        include __DIR__.'/Twilio.php';
+        include __DIR__.'/TwilioApi.php';
+        include __DIR__.'/Exceptions/Handler.php';
     }
 
     /**
