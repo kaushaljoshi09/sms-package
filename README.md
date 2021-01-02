@@ -1,9 +1,5 @@
 # Twilio API Custome Package
 
-
-
-![Issues]()
-
 [![Issues](https://img.shields.io/github/issues/kaushaljoshi09/twillo-package)](https://github.com/kaushaljoshi09/twillo-package/issues)
 [![Stars](https://img.shields.io/github/stars/kaushaljoshi09/twillo-package)](https://github.com/kaushaljoshi09/twillo-package/stargazers)
 
