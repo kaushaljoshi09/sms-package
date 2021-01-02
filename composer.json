@@ -18,5 +18,12 @@
         "psr-4": {
             "Kaushal\\Twilio\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Kaushal\\Twilio\\TwilioServiceProvider"
+            ]
+        }
     }
 }
