@@ -15,8 +15,7 @@ class TwilioApi
             $client->messages->create($phoneNumber,array('from' => $twilio_number, 'body' => $message));
             return true;
         } catch (Exception $e) {
-            echo "Error: " . $e->getMessage();
-            exit();
+            return  "Error: " . $e->getMessage();
         }
     }
 }
